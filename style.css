@@ -50,16 +50,24 @@ h3 {
 }
 
 #pic1 {
-	width: 70%;
+	width: 20%;
 }
 
 #pic2 {
-	width: 50%;
+	width: 15%;
 
 }
 
 #pic3 {
-	width: 50%;
+	width: 20%;
+}
+
+#pic4 {
+	width: 15%;
+}
+
+#pic5 {
+	width: 25%;
 }
 
 #text{
