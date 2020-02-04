@@ -41,13 +41,15 @@ h3 {
 }
 
 #home{
-	background-color: white ;
-	display: table;
-	height: 100%;
+	
+	background: url("https://media.istockphoto.com/photos/texture-dark-concrete-floor-picture-id621925576?k=6&m=621925576&s=612x612&w=0&h=H4rph08J2vSJz_crupTLvHf5OKW0olvoRJzaAK37Yhg=") no-repeat center center fixed;
 	position: relative;
-	width: 100%;
+	display: table;
+	height: 100vh;
+	width: 100vw;
 	background-size: cover;
 }
+
 
 #pic1 {
 	width: 20%;
@@ -74,6 +76,7 @@ h3 {
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
+	color: whitesmoke;
 }
 
 .projectCard {
