@@ -30,6 +30,7 @@
 }
 h3 {
 	text-align: center;
+	text-decoration: underline;
 }
 
 #picture{
@@ -42,7 +43,7 @@ h3 {
 
 #home{
 	
-	background: url("img/back.jpg") no-repeat center center fixed;
+	background: url("https://media.istockphoto.com/photos/texture-dark-concrete-floor-picture-id621925576?k=6&m=621925576&s=612x612&w=0&h=H4rph08J2vSJz_crupTLvHf5OKW0olvoRJzaAK37Yhg=") no-repeat center center fixed;
 	position: relative;
 	display: table;
 	height: 100vh;
